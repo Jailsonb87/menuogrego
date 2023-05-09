@@ -45,16 +45,6 @@ section h2{
     color: rgb(42, 8, 233);
 }
 
-.servicos{
-    display: inline-block;
-    margin-top: 5%;  
-}
-
-.texto-oculto{
-    display: none;
-    padding: 25px;
-    
-}
 .card{
     display: inline-block;
     width: 30%;
