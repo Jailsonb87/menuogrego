@@ -59,7 +59,7 @@ section h2{
     width: 30%;
     padding: 0px;
     margin: 1%;
-    border: 1px solid palevioletred;
+    border: 1px solid rgb(0, 27, 182);
     border-radius: 10px;
     cursor: pointer;
 }
