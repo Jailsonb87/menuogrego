@@ -58,6 +58,18 @@ section h2{
     font-weight: bold;
     color: rgb(42, 8, 233);
 }
+.nav-item{
+    padding: 1%;
+   
+}
+a.nav-link{
+    font-size: 8pt;
+    padding: 4px 6px;
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+
+
+}
 
 .card{
     display: inline-block;
@@ -70,7 +82,7 @@ section h2{
     cursor: pointer;
 }
 .card-text{
-    font-size: 18pt;
+    font-size: 12pt;
 }
 
 footer{
