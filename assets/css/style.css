@@ -101,7 +101,7 @@ a.nav-link{
 	border-left: 1px solid #6ab070;
 
 	/* This makes room for the triangle */
-	margin-left: 19px;
+	margin-left: 0px;
 	
 	position: relative;
 	
