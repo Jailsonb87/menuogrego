@@ -23,14 +23,6 @@ body{
     text-align: left;
     
 }
-.logo h1{
-    font-family: 'Anton', sans-serif;
-    color: #04049b;
-    font-size: 25px;
-    margin-bottom: 10px;
-}
-
-
 section{
     display: inline-block;
     margin-top: 20px;
@@ -76,6 +68,7 @@ section h4{
     color: #04049b;
     width: 100%;
     font-size: 20px;
+    margin-top:  20px; 
     margin-bottom: 4px;
     font-family: 'Lobster', cursive;
     font-weight: bolder;
@@ -105,11 +98,20 @@ a.nav-link{
     border-radius: 10px;
     cursor: pointer;
 }
+
+.card-title{
+    color: #04049b;;
+    font-size: 18pt;
+    font-family: 'Lobster', cursive; 
+    font-weight: bolder;
+    margin-top: 4px;
+
+}
 .card-text{
-    color: #04049b;
+    color: rgb(47, 0, 255);
     font-size: 16pt;
     font-family: 'Lobster', cursive; 
-    font-weight: lighter;
+    font-weight:lighter;
 }
 .card-price {
 	display: inline-block;
