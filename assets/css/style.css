@@ -14,14 +14,15 @@ body{
     background-color: #04049b;
 
 }
-
-
-.logo{
-    flex: 40%;
-    margin-left: 10%;
-    /* border: 1px solid red; */
-    text-align: left;
+.carousel{
+    margin-top: 50px;
     
+
+}
+.carousel-title{
+    font-size: 16pt;
+    font-family: 'Lobster', cursive; 
+    font-weight: bolder;
 }
 section{
     display: inline-block;
