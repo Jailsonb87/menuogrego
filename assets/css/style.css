@@ -106,7 +106,8 @@ a.nav-link{
     cursor: pointer;
 }
 .card-text{
-    font-size: 12pt;
+    color: #04049b;
+    font-size: 16pt;
     font-family: 'Lobster', cursive; 
     font-weight: lighter;
 }
