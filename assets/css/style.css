@@ -9,16 +9,12 @@ body{
     
 } 
 
-.nav{
-    justify-content: center;
-    background-color: rgb(248, 247, 247);
-    
+
+.navbar {
+    background-color: #04049b;
+
 }
 
-.navbar{
-    background-color: #04049b;
-   
-}
 
 .logo{
     flex: 40%;
@@ -45,13 +41,14 @@ section{
     text-align: center;
     /* width: 90%; */
 }
-.logo{
+img.logo{
+    margin-left: 10px;
     height: 50px;
     width: auto;
     box-sizing: border-box;
 }
 button.btn.dropdown-toggle {
-    
+    margin-right: 10px;
     border-color: rgb(25, 0, 255);
     color: white;
 }
@@ -73,10 +70,13 @@ a.dropdown-item {
   
 }
 
-section h2{
+section h4{
+    border-bottom: solid 6px;
+    border-color: #04049b;
+    color: #04049b;
     width: 100%;
-    font-size: 30px;
-    margin: 0;
+    font-size: 20px;
+    margin-bottom: 4px;
     font-family: 'Lobster', cursive;
     font-weight: bold;
     
@@ -102,7 +102,6 @@ a.nav-link{
     padding: 0%;
     margin-right: 1%;
     margin-bottom: 2%;
-    border: 1px solid rgb(0, 27, 182);
     border-radius: 10px;
     cursor: pointer;
 }
