@@ -107,6 +107,8 @@ a.nav-link{
 }
 .card-text{
     font-size: 12pt;
+    font-family: 'Lobster', cursive; 
+    font-weight: lighter;
 }
 .card-price {
 	display: inline-block;
