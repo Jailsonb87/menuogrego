@@ -5,7 +5,7 @@
 
 body{
     margin: 0;
-    font-family: 'Roboto', sem serifa;
+  
     
 } 
 
@@ -20,9 +20,11 @@ body{
 
 }
 .carousel-title{
-    font-size: 16pt;
-    font-family: 'Lobster', cursive; 
-    font-weight: bolder;
+    font-size: 20px;
+    font-family: Impact, fantasy; 
+    color: #ffff;
+    
+    
 }
 section{
     display: inline-block;
@@ -71,8 +73,8 @@ section h4{
     font-size: 20px;
     margin-top:  20px; 
     margin-bottom: 4px;
-    font-family: 'Lobster', cursive;
-    font-weight: bolder;
+    font-family: Impact, fantasy;
+    
     
 }
 
@@ -97,21 +99,21 @@ a.nav-link{
     margin-right: 1%;
     margin-bottom: 2%;
     border-radius: 10px;
-    cursor: pointer;
+    cursor:copy ;
 }
 
 .card-title{
     color: #04049b;;
-    font-size: 18pt;
-    font-family: 'Lobster', cursive; 
-    font-weight: bolder;
+    font-size: 18px;
+    font-family: Times, 'Times New Roman', serif;
     margin-top: 4px;
+    font-weight: bolder;
 
 }
 .card-text{
     color: rgb(47, 0, 255);
-    font-size: 16pt;
-    font-family: 'Lobster', cursive; 
+    font-size: 16px;
+    font-family:'Times New Roman', Times, serif;
     font-weight:lighter;
 }
 .card-price {
