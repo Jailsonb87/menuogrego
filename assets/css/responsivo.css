@@ -1,11 +1,8 @@
-@media screen and (max-width:1005px){
+@media screen and (max-width:600px){
     .navbar{
         position: fixed;
     }
-    .menu{
-        display: none;
-
-    }
+    
     .logo{
         margin: 0;
         text-align: center;
@@ -28,6 +25,7 @@
     }
     .card{
         width: 100%;
+       
 
     }
 
