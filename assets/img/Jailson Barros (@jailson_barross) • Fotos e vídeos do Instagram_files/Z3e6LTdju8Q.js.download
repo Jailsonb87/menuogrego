@@ -1,3 +1,0 @@
-;/*FB_PKG_DELIM*/
-
-__d("PolarisSearchResultDisplayTypes",["$InternalEnum"],(function(a,b,c,d,e,f){"use strict";a=b("$InternalEnum").Mirrored(["Panel","Popover","Page"]);c=a;f["default"]=c}),66);
