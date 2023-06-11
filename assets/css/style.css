@@ -118,7 +118,7 @@ a.nav-link{
     font-size: 16px;
     font-family:'Times New Roman', Times, serif;
     font-weight:lighter;
-   
+    
 }
 .card-price {
 	display: flex;
@@ -134,8 +134,9 @@ a.nav-link{
 
 	/* This makes room for the triangle */
 	margin-left: 0px;
-	
-	position: relative;
+
+    position: relative;
+   
 	
 	color: white;
 	font-weight: 300;
