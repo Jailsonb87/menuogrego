@@ -98,13 +98,12 @@ a.nav-link{
     padding: 0%;
     margin-right: 1%;
     margin-bottom: 2%;
-    border-radius: 10px;
+    border-radius: 5px;
     cursor:copy ;
     
    
 }
-
-    
+  
 .card-title{
     color: #04049b;;
     font-size: 18px;
