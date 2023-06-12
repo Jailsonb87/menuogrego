@@ -5,13 +5,14 @@
 
 body{
     margin: 0;
-  
+    
     
 } 
 
 
 .navbar {
     background-color: #04049b;
+    padding: 0;
 
 }
 .carousel{
@@ -37,6 +38,7 @@ section{
     
 }
 img.logo{
+    
     margin-left: 10px;
     height: 50px;
     width: auto;
